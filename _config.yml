@@ -20,7 +20,7 @@ title                    : "제이포 샘플 홈페이지"
 title_separator          : "-"
 name                     : "제이포"
 description              : "유니티 Web GL 테스트"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://jayppo.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
